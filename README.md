@@ -1,6 +1,6 @@
-### Hi there 👋
+### Who am I?
+I am a second-year student at Kyungpook National University who is studying computer science.
 
-https://camo.githubusercontent.com/c00b214be5a459d151b7b9abcbf1858aad009b87ccf91723bbe961ddd921f0fa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656c6563627567267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374266c616e67735f636f756e743d36
 
 <!--
 **aa093094/aa093094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
