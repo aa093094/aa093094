@@ -1,7 +1,7 @@
 ### Who am I?
 I am a second-year student at Kyungpook National University who is studying computer science.
 ### My Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa093094&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa093094&layout=compact&theme=tokyonight)
 
 
 <!--
